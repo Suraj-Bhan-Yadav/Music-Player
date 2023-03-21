@@ -1,7 +1,5 @@
-<h1>Music Player <h1>
-
+<h1>Music Player-Clone <h1>
 ## ⭐ Introduction
-
 <h4>It is the like clone of music player app front-end part which is develop using HTML CSS.<h4>
 
 <br/>
