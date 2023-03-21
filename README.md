@@ -5,10 +5,10 @@
 <h4>It is the like clone of music player app front-end part which is develop using HTML CSS.<h4>
 
 <br/>
-<img src="Screenshot (87).png">
+<img src="images/Screenshot (87).png">
 <br/>
 <br/>
-<img src="Screenshot (88).png">
+<img src="images/Screenshot (88).png">
 <br/>
 
 ## 🔥 Getting Started With The Project
